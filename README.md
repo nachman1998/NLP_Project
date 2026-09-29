@@ -13,7 +13,7 @@ This section details the identification and validation of context and memory hea
 2. **Prompt Engineering & Steering**
    * **Notebook:** `prompt-engineering.ipynb`
    * **Purpose:** Train and optimize prompts to steer the identified context and memory heads.
-   * **Evaluation:** Evaluated using the custom dataset to benchmark performance.
+   * **Evaluation:** Evaluated using the custom KnownFact-NQ-swap dataset to benchmark performance.
 
 ---
 
