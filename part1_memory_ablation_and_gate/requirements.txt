@@ -1,0 +1,8 @@
+# install torch first, matching your CUDA version: https://pytorch.org/get-started/locally/
+transformers>=4.45
+accelerate
+sentencepiece
+protobuf
+numpy
+pandas
+matplotlib
